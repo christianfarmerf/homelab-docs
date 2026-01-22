@@ -1,0 +1,2 @@
+# homelab-docs
+Homelab Documentation
